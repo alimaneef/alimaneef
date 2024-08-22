@@ -1,3 +1,4 @@
+![logo](https://github.com/alimaneef/alimaneef/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Maneef Ali</h1>
 <h3 align="center">Aspiring Software Developer Eager to Learn and Grow</h3>
 <img align="right" alt="coding" width="300" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
